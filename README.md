@@ -1,16 +1,34 @@
-## Hi there 👋
+  Hi there 👋
+  
 
-<!--
-**vitinzx7/vitinzx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Victor, estudante de tecnologia no 3º período.
 
-Here are some ideas to get you started:
+Tenho foco em desenvolvimento Backend, principalmente com C# e .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também tenho noções de Segurança da Informação e Redes de Computadores, além de conhecimentos em Sistemas Operacionais.
+
+Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que estou desenvolvendo enquanto evoluo na área de tecnologia.
+
+---
+
+## Ferramentas & Tecnologias
+
+- C# e .NET
+- SQL e Banco de Dados
+- APIs REST
+- Git e GitHub
+- Segurança da Informação
+- Redes de Computadores
+- Sistemas Operacionais
+
+---
+
+## Um Pouco Sobre Mim
+
+- 💻 Amo desenvolvimento Backend
+- 🎬 Gosto de editar no tempo livre
+- ☕ Sem café não dá
+- 🔐 Gosto de entender como os sistemas funcionam por trás
+- 🚀 Estou criando projetos pessoais para fortalecer meu portfólio
+```
+
