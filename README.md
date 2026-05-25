@@ -17,7 +17,7 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 - SQL e Banco de Dados
 - APIs REST
 - Git e GitHub
-- Segurança da Informação
+- Noção de Segurança da Informação
 - Redes de Computadores
 - Sistemas Operacionais
 
