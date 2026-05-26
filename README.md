@@ -1,7 +1,7 @@
   Hi there 👋
   
 
-Eu sou o Victor, estudante de tecnologia no 3º período.
+Eu sou o Victor, estudante de tecnologia no 4º período.
 
 Tenho foco em desenvolvimento Backend, principalmente com C# e .NET.
 
