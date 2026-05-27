@@ -3,7 +3,7 @@
 
 Eu sou o Victor, estudante de tecnologia no 4º período.
 
-Tenho foco em desenvolvimento Backend, principalmente com Java com Spring Boot.
+Tenho foco em desenvolvimento Backend, principalmente Java com Spring Boot.
 
 Também tenho noções de Segurança da Informação e Redes de Computadores, além de conhecimentos em Sistemas Operacionais.
 
