@@ -3,7 +3,7 @@
 
 Eu sou o Victor, estudante de tecnologia no 4º período.
 
-Tenho foco em desenvolvimento Backend, principalmente com C# e .NET.
+Tenho foco em desenvolvimento Backend, principalmente com Java com Spring Boot.
 
 Também tenho noções de Segurança da Informação e Redes de Computadores, além de conhecimentos em Sistemas Operacionais.
 
@@ -12,11 +12,11 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 ---
 
 ## Ferramentas & Tecnologias
-
-- C# e .NET
+- Java e Spring Boot
 - SQL e Banco de Dados
 - APIs REST
 - Git e GitHub
+- conhecimento em C# e .NET
 - Noção de Segurança da Informação
 - Redes de Computadores
 - Sistemas Operacionais
