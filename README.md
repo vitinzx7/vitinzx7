@@ -17,7 +17,6 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 - SQL 
 - APIs REST
 - Git e GitHub
-- conhecimento em C# e .NET
 - Noção de Segurança da Informação
 - Redes de Computadores
 - Sistemas Operacionais
