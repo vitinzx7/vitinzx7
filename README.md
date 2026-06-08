@@ -11,6 +11,7 @@ Também tenho noções de Segurança da Informação e Redes de Computadores, al
 Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que estou desenvolvendo enquanto evoluo na área de tecnologia.
 
 
+
 ---
 
 ## Ferramentas & Tecnologias
