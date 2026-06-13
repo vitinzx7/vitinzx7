@@ -29,7 +29,7 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 
 - 💻 Amo desenvolvimento Backend
 - 🎬 Gosto de editar no tempo livre
-- ☕ Sem café não dá
+- ☕ vicio em café
 - 🔐 Gosto de entender como os sistemas funcionam por trás
 - 🚀 Estou criando projetos pessoais para fortalecer meu portfólio
 ```
