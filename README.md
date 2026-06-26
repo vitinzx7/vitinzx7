@@ -3,7 +3,6 @@
   
 
 
-
 Eu sou o Victor, estudante de tecnologia no 3º período.
 
 Tenho foco em desenvolvimento Backend, principalmente Java com Spring Boot.
