@@ -38,5 +38,6 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 - ☕ vicio em café
 - 🔐 Gosto de entender como os sistemas funcionam por trás
 - 🚀 Estou criando projetos pessoais para fortalecer meu portfólio
+  
 ```
 
