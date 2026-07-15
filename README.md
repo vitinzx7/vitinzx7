@@ -17,9 +17,8 @@ Este é meu perfil onde compartilho projetos, estudos, experimentos e coisas que
 
 
 ## Ferramentas & Tecnologias
-<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,react,ts,html,css,linux,vscode" />
-</p>
+
 - Java e Spring Boot
 - SQL 
 - APIs REST
