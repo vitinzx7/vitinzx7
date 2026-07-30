@@ -31,7 +31,7 @@ I also study the fundamentals of **Information Security**, **Computer Networks**
 `React` · `TypeScript` · `JavaScript` · `Vite` · `React Router` · `HTML` · `CSS`
 
 #### Cloud & DevOps
-`Docker` · `Docker Compose` · `Azure Container Apps` · `Azure Container Registry` · `Azure Database for PostgreSQL`  · `Git` · `Linux`
+`Docker` · `Docker Compose` · `Azure Container Apps` · `Azure Container Registry`  · `Git` · `Linux`
 
 #### Testing & Quality
 `JUnit` · `Mockito` · `MockMvc` · `AssertJ` · `ESLint` · `Oxlint`
