@@ -6,7 +6,7 @@ I build projects to strengthen my skills in **REST APIs**, databases, web develo
 
 I also study the fundamentals of **Information Security**, **Computer Networks**, **Linux**, and how systems work.
 
-### Tech Stack
+#################################################### Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="26" alt="Java" />
@@ -22,7 +22,6 @@ I also study the fundamentals of **Information Security**, **Computer Networks**
 </p>
 
 #### Backend & APIs
-
 `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `Maven` · `REST APIs` · `External API Integrations`
 
 #### Databases & Migrations
@@ -35,7 +34,7 @@ I also study the fundamentals of **Information Security**, **Computer Networks**
 
 #### Cloud & DevOps
 
-`Docker` · `Docker Compose` · `Azure Container Apps` · `Azure Container Registry` · `Azure Database for PostgreSQL` · `Azure Log Analytics` · `Git` · `Linux`
+`Docker` · `Docker Compose` · `Azure Container Apps` · `Azure Container Registry` · `Azure Database for PostgreSQL`  · `Git` · `Linux`
 
 #### Testing & Quality
 
