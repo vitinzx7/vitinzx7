@@ -1,11 +1,24 @@
-# Olá, eu sou o Victor 👋
+# Hi, I'm Victor 👋
 
-Sou estudante de **Tecnologia**, com foco em desenvolvimento **Backend utilizando Java e Spring Boot**.
+I'm a technology student focused on **Backend Development with Java and Spring Boot**.
 
-Atualmente desenvolvo projetos para fortalecer meus conhecimentos em construção de **APIs REST**, bancos de dados, desenvolvimento web e segurança de aplicações.
+I currently build projects to strengthen my skills in **REST APIs**, databases, web development, and application security.
 
-Também estudo fundamentos de **Segurança da Informação**, **Redes de Computadores**, **Linux** e funcionamento de sistemas.
+I also study the fundamentals of **Information Security**, **Computer Networks**, **Linux**, and how systems work.
+
+### Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="28" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="28" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28" alt="Linux" />
+</p>
 
 ---
-
 
