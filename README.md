@@ -6,7 +6,12 @@ I currently build projects to strengthen my skills in **REST APIs**, databases, 
 
 I also study the fundamentals of **Information Security**, **Computer Networks**, **Linux**, and how systems work.
 
-### Technologies
+### Tech Stack
+
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, and Flyway
+- **Frontend:** React, TypeScript, Vite, and React Router
+- **Cloud & DevOps:** Docker, Azure Container Apps, Azure Database for PostgreSQL, and Azure Container Registry
+- **Testing & Tools:** JUnit, Mockito, Git, and Linux
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" alt="Java" />
@@ -21,4 +26,3 @@ I also study the fundamentals of **Information Security**, **Computer Networks**
 </p>
 
 ---
-
