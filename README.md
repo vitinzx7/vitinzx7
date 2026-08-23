@@ -1,6 +1,5 @@
 # Hi, I'm Victor 👋
 
-
 I'm a technology student focused on **Backend Development with Java and Spring Boot**.
 
 I build projects to strengthen my skills in **REST APIs**, databases, web development, cloud deployment, and application security.
