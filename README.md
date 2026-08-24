@@ -4,7 +4,7 @@ Java/Spring Boot → SOC/Blue Team.
 
 Sobre
 
-Eu construo sistemas backend — Java, Spring Boot, APIs REST, PostgreSQL, Docker, implantação na nuvem — e estou construindo a mesma profundidade em segurança defensiva, começando pelos fundamentos de redes (TCP/IP, DNS, HTTP) e Linux. Baseado em Brasília.
+Atuo com desenvolvimento backend e segurança defensiva— com foco em aplicações, autenticação, infraestrutura e análise de ambientes.
 
 Projetos
 
@@ -14,6 +14,5 @@ authlab — Laboratório de autenticação construído sobre Spring Security: ha
 
 Stack
 
-Java · Bota de Mola · PostgreSQL · Docker · Rede (TCP/IP, DNS, HTTP) · Linux
+Java · Bota de Mola · PostgreSQL · Docker · Rede de computadores · Linux
 
-LinkedIn
