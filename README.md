@@ -1,21 +1,19 @@
 Victor Douglas
 
-Backend (Java/Spring Boot) → Blue Team & SOC. Systems Analysis & Development student (UCB, Brasília, remote), moving from backend development into defensive security. Backend isn't legacy here, it's leverage: I've built the kind of systems attackers go after, so I know what to look for.
+Java/Spring Boot → SOC/Blue Team.
 
-🔭 Currently
+Sobre
 
-Deepening networking fundamentals, Windows/Active Directory, and detection engineering (SIEM) on the way to SOC/Blue Team. Logging the process in Blue-Lab.
+Eu construo sistemas backend — Java, Spring Boot, APIs REST, PostgreSQL, Docker, implantação na nuvem — e estou construindo a mesma profundidade em segurança defensiva, começando pelos fundamentos de redes (TCP/IP, DNS, HTTP) e Linux. Baseado em Brasília.
 
-Projects
+Projetos
 
-JobSonnar — Job-search backend in Spring Boot: REST API, JPA, PostgreSQL, external API integration.
+JobSonnar — Backend de busca de emprego no Spring Boot: REST API, JPA, PostgreSQL, integração com API externa.
 
-DrawVault — Personal art portfolio, deployed to production on Azure Container Apps (HTTPS).
-
-Tech Signals — Tech/security news aggregator: multi-source collection, normalization, deduplication.
-
-authlab — Authentication lab built on Spring Security: hashing, sessions, access control.
+authlab — Laboratório de autenticação construído sobre Spring Security: hashing, sessões, controle de acesso.
 
 Stack
 
-Java · Spring Boot · PostgreSQL · Docker · Azure · Linux
+Java · Bota de Mola · PostgreSQL · Docker · Rede (TCP/IP, DNS, HTTP) · Linux
+
+LinkedIn
