@@ -1,15 +1,15 @@
+# Hi there, I'm Victor Douglas 👋
 
-Sobre
+### About
 
-Atuo com desenvolvimento backend e segurança defensiva— com foco em aplicações, autenticação, infraestrutura e análise de ambientes.
+I work with backend development and defensive security — focusing on applications, authentication, infrastructure, and environment analysis.
 
-Projetos
+### Projects
 
-JobSonnar — Backend de busca de emprego no Spring Boot: REST API, JPA, PostgreSQL, integração com API externa.
+**JobSonnar** — Job search backend built with Spring Boot: REST API, JPA, PostgreSQL, and external API integration.
 
-authlab — Laboratório de autenticação construído sobre Spring Security: hashing, sessões, controle de acesso.
+**authlab** — Authentication lab built with Spring Security: hashing, sessions, and access control.
 
-Stack
+### Stack
 
-Java · Bota de Mola · PostgreSQL · Docker · Rede de computadores · Linux
-
+Java · Spring Boot · PostgreSQL · Docker · Computer Networks · Linux
