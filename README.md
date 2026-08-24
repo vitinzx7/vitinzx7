@@ -1,6 +1,3 @@
-Victor Douglas
-
-Java/Spring Boot → SOC/Blue Team.
 
 Sobre
 
