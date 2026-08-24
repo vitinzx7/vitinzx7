@@ -1,46 +1,21 @@
-# Hi, I'm Victor 👋
+Victor Douglas
 
-I'm a technology student focused on **Backend Development with Java and Spring Boot**.
+Backend (Java/Spring Boot) → Blue Team & SOC. Systems Analysis & Development student (UCB, Brasília, remote), moving from backend development into defensive security. Backend isn't legacy here, it's leverage: I've built the kind of systems attackers go after, so I know what to look for.
 
-I build projects to strengthen my skills in **REST APIs**, databases, web development, cloud deployment, and application security.
+🔭 Currently
 
-I also study the fundamentals of **Information Security**, **Computer Networks**, **Linux**, and how systems work.
+Deepening networking fundamentals, Windows/Active Directory, and detection engineering (SIEM) on the way to SOC/Blue Team. Logging the process in Blue-Lab.
 
-#### Tech Stack
+Projects
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="26" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="26" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="26" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="26" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="26" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="26" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="26" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="26" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="26" alt="Python" />
-</p>
+JobSonnar — Job-search backend in Spring Boot: REST API, JPA, PostgreSQL, external API integration.
 
-#### Backend & APIs
-`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `Maven` · `REST APIs` · `External API Integrations`
+DrawVault — Personal art portfolio, deployed to production on Azure Container Apps (HTTPS).
 
-#### Databases & Migrations
-`PostgreSQL` · `MySQL` · `H2` · `Flyway`
+Tech Signals — Tech/security news aggregator: multi-source collection, normalization, deduplication.
 
-#### Frontend
-`React` · `TypeScript` · `JavaScript` · `Vite` · `React Router` · `HTML` · `CSS`
+authlab — Authentication lab built on Spring Security: hashing, sessions, access control.
 
-#### Cloud & DevOps
-`Docker` · `Docker Compose` · `Azure Container Apps` · `Azure Container Registry`  · `Git` · `Linux`
+Stack
 
-#### Testing & Quality
-`JUnit` · `Mockito` · `MockMvc` · `AssertJ` · `ESLint` · `Oxlint`
-
-#### Additional Learning
-`Python` · `Chrome Extensions (Manifest V3)` · `Google Analytics 4`
-
-### Security Focus
-
-I study and apply secure development practices, including **authentication and authorization**, **Spring Security**, **BCrypt password hashing**, **DTOs**, **input validation**, **CORS**, **CSRF**, **XSS**, **IDOR/BOLA**, **environment-based secrets**, and the **principle of least privilege**.
-
----
+Java · Spring Boot · PostgreSQL · Docker · Azure · Linux
