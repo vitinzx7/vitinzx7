@@ -10,7 +10,6 @@ I work with backend development and defensive security — focusing on applicati
 
 **JobSonnar** — Job search backend built with Spring Boot: REST API, JPA, PostgreSQL, and external API integration.
 
-**authlab** — Authentication lab built with Spring Security: hashing, sessions, and access control.
 
 ### Stack
 
